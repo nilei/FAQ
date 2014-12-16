@@ -353,7 +353,7 @@ Your OTRS Notification Master
         <Setting>
             <Hash>
                 <Item Key="Show">public</Item>
-                <Item Key="Caption">Solution</Item>
+                <Item Translatable="1" Key="Caption">Solution</Item>
                 <Item Key="Prio">300</Item>
             </Hash>
         </Setting>
